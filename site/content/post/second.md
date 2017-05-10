@@ -1,0 +1,9 @@
++++
+date = "2017-05-10T11:41:21-04:00"
+draft = true
+title = "second"
+
++++
+
+“We live together, we act on, and react to, one another; but always and in all circumstances we are by ourselves. The martyrs go hand in hand into the arena; they are crucified alone. Embraced, the lovers desperately try to fuse their insulated ecstasies into a single self-transcendence; in vain. By its very nature every embodied spirit is doomed to suffer and enjoy in solitude. Sensations, feelings, insights, fancies - all these are private and, except through symbols and at second hand, incommunicable. We can pool information about experiences, but never the experiences themselves. From family to nation, every human group is a society of island universes. Most island universes are sufficiently like one another to Permit of inferential understanding or even of mutual empathy or "feeling into." Thus, remembering our own bereavements and humiliations, we can condole with others in analogous circumstances, can put ourselves (always, of course, in a slightly Pickwickian sense) in their places. But in certain cases communication between universes is incomplete or even nonexistent. The mind is its own place, and the Places inhabited by the insane and the exceptionally gifted are so different from the places where ordinary men and women live, that there is little or no common ground of memory to serve as a basis for understanding or fellow feeling. Words are uttered, but fail to enlighten. The things and events to which the symbols refer belong to mutually exclusive realms of experience.” 
+― Aldous Huxley, The Doors of Perception & Heaven and Hell

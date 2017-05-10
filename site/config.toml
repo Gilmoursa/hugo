@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Austin Gilmour"
 theme = "hugo-strata-theme"
-disqusShortname = "portfolio-a"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site

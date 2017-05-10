@@ -56,37 +56,37 @@ paginate = 5
 			image = "http://www.citybarjusticecenter.org/"
 			thumb = "thumbs/01.jpg"
 			title = "City Bar Justice Center."
-			description = "A responsive WordPress site with a custom theme."
+			description = "A responsive WordPress site leveraging advanced custom fields, custom post types, and multiple blogs."
 
 		[[params.portfolio.gallery]]
 			image = "http://bwiny.org/"
 			thumb = "thumbs/02.jpg"
 			title = "Brooklyn Workforce Innovations."
-			description = "A responsive WordPress site with a custom theme."
+			description = "A responsive WordPress site with a custom theme and heavy use of advanced custom fields."
 
 		[[params.portfolio.gallery]]
 			image = "https://www.nywf.org/"
 			thumb = "thumbs/03.jpg"
 			title = "New York Women's Foundation."
-			description = "A responsive WordPress site with a custom theme."
+			description = "A responsive WordPress site making use of extensive search and filtering."
 
 		[[params.portfolio.gallery]]
 			image = "https://mshp.mountsinai.org/"
 			thumb = "thumbs/04.jpg"
 			title = "Mount Sinai Health Partners."
-			description = "A responsive WordPress site with a custom theme."
+			description = "A responsive WordPress site connected to OKTA's single sign-on service."
 
 		[[params.portfolio.gallery]]
 			image = "https://www.cucs.org/"
 			thumb = "thumbs/05.jpg"
 			title = "Center for Urban Community Services."
-			description = "Lorem ipsum dolor sit amet."
+			description = "A WordPress site with an interactive job board and custom post types."
 
 		[[params.portfolio.gallery]]
 			image = "http://winnyc.org/"
 			thumb = "thumbs/06.jpg"
 			title = "Women In Need."
-			description = "A responsive WordPress site with a custom theme."
+			description = "A responsive WordPress site with advanced custom fields and Blackbaud API integration."
 
 	[params.recentposts]
 		hide  = true

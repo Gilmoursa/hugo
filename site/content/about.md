@@ -23,11 +23,18 @@ EXPERIENCE
 ------
 
 **Great Believer,** Brooklyn, NY — *Technical Project Manager*
+
 `April 2016 - April 2017`
+
  - Managed all web properties using project management tools such as Basecamp and Toggl
+
  - Coordinated with a team of remote developers to implement new features ahead of schedule and under budget
+
  - Worked with HTML, CSS, Javascript to style pages and implement new functionality
+
  - Conducted learning seminars for clients on how to make use and make changes to their new website
+
+
 
 **Learn.co,** New York, NY — *Learn Expert / Online Instructor*
 `January 2016 - April 2016`

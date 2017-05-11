@@ -8,7 +8,7 @@ title = "Customer Success"
 -----
 
 ## Part 1: Create a webpage
-This is a webpage on a subdomain of my personal blog [AustinGilmour.com](http://www.austingilmour.com). I used [Hugo](http://gohugo.io/), a static website engine to create the site.  The pages on this site are written in markdown using Sublime Text. I used [Netlify](http://www.netlify.com) to continuously deploy from a GitHub repository. Optimizing images, minifying assets, and minimizing request sizes, I was able to achieve a sub 1.5 second load time and a 96% on [PageSpeed](https://gtmetrix.com/reports/portfolio.austingilmour.com/N1A30tv2).
+This is a webpage on a subdomain of my personal blog. I used [Hugo](http://gohugo.io/), a static website engine to create the site.  The pages on this site are written in markdown using Sublime Text. I used [Netlify](http://www.netlify.com) to continuously deploy from a GitHub repository. Optimizing images, minifying assets, and minimizing request sizes, I was able to achieve a sub 1.5 second load time and a 96% on [PageSpeed](https://gtmetrix.com/reports/portfolio.austingilmour.com/N1A30tv2).
 
 -----
 

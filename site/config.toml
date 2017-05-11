@@ -136,7 +136,3 @@ paginate = 5
     name = "About"
     url  = "about"
     weight = 5
-[[menu.main]]
-    name = ""
-    url  = "skyverge"
-    weight = 5

@@ -95,7 +95,7 @@ paginate = 5
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Interested in hiring me? Feel free to reach out using the contact form below."
+		content = "Interested in hiring me? Reach out using the contact form below."
 
 		address = [
 			"Pulaski St",
